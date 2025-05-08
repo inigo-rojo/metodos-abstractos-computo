@@ -1,0 +1,1 @@
+Para el ejercicio 2 en el caso peor sera exponencial O(n^n)

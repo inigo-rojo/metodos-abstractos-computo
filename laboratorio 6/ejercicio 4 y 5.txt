@@ -1,0 +1,4 @@
+Ejercicio4:
+	El arbol binario ha tardado unas cuatro veces mas
+Ejercicio5:
+	No creo que se ganase en eficiencia, ya que seria el mismo numero de llamadas en anchura que en profundidad
